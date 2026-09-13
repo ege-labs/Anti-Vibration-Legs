@@ -5,7 +5,7 @@ This project is designed to provide a solution for dampening the low-frequency v
 
 ## Versions  
 ### V1 | Basic Start Model  
-  <img src="[version1preview.jpg](https://github.com/ege-labs/Anti-Vibration-Legs/blob/e7dcc0955c5e5bf3b21f9d511bce67a056ed97d8/version1preview.jpg)" width="300"/>
+  <img src="https://github.com/ege-labs/Anti-Vibration-Legs/blob/e7dcc0955c5e5bf3b21f9d511bce67a056ed97d8/version1preview.jpg" width="300"/>
   
   **Description:** This model is the first product based on this idea.  
   **Errors:** Structural vibration and stability issues in the printer housing.   
